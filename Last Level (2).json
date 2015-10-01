@@ -1,0 +1,124 @@
+{ "height":48,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJzt2dsKgzAMBuDgDu\/\/yLsalGISE3Pc8kNgVlY\/UIK1BwAczesFdnkK6k7e4OOPyvhzI\/U\/mNKGmxebn\/Kv56oUZcTOcfcF6yVW45TFwh+R8efG2o\/1BKtxT39EX9JYpP+hnqu9j3DH2mt6+bUZv34ui2T7917CHVfya\/pSRf\/ZfTlbd3XyY05sfPzjp9LFzznHP\/5\/8K\/vDd\/fnfyd3x+url2q+iUZ\/\/25fsV\/dS2zj2X7LSp7\/Sv9fsLtJUX7rTN+ftwzUX7p9xPqm663P6Ms\/GuoPZ\/IfaUqz7k048+N1i\/dC\/LeV+peHxtgDfc=",
+         "encoding":"base64",
+         "height":48,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":48,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "renderorder":"right-down",
+ "tileheight":16,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"4.png",
+         "imageheight":16,
+         "imagewidth":16,
+         "margin":0,
+         "name":"4",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":16,
+         "tilewidth":16
+        }, 
+        {
+         "firstgid":2,
+         "image":"6.png",
+         "imageheight":16,
+         "imagewidth":16,
+         "margin":0,
+         "name":"6",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":16,
+         "tilewidth":16
+        }, 
+        {
+         "firstgid":3,
+         "image":"3.png",
+         "imageheight":16,
+         "imagewidth":16,
+         "margin":0,
+         "name":"3",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":16,
+         "tilewidth":16
+        }, 
+        {
+         "firstgid":4,
+         "image":"4.png",
+         "imageheight":16,
+         "imagewidth":16,
+         "margin":0,
+         "name":"4",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":16,
+         "tilewidth":16
+        }, 
+        {
+         "firstgid":5,
+         "image":"left spike.png",
+         "imageheight":16,
+         "imagewidth":16,
+         "margin":0,
+         "name":"left spike",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":16,
+         "tilewidth":16
+        }, 
+        {
+         "firstgid":6,
+         "image":"right spike.png",
+         "imageheight":16,
+         "imagewidth":16,
+         "margin":0,
+         "name":"right spike",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":16,
+         "tilewidth":16
+        }],
+ "tilewidth":16,
+ "version":1,
+ "width":48
+}
