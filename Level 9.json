@@ -1,0 +1,108 @@
+{ "height":48,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJztlksOgCAMRIuf+1\/ZjW6wgZpiW+i8ZHYT8mJkQiGiMnkOerNX4ag7mp70rIez4x+djP7bHeseR8\/f+07i\/sYG\/r5k9I+6nzOk5Y\/9tAf+vmT0j7qfeH9iP78Cf18y+kfdzxnS8pd+f8mu\/dHjyPj\/RwL+vvT8tyocdUfTk54l9ffeS+37kwP7OQ74+7Ky\/8hdlPY0+zlDWv7YT3vg78vK\/thPu1w8mwT2",
+         "encoding":"base64",
+         "height":48,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":48,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "renderorder":"right-down",
+ "tileheight":16,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"Snow.png",
+         "imageheight":16,
+         "imagewidth":16,
+         "margin":0,
+         "name":"Snow",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":16,
+         "tilewidth":16
+        }, 
+        {
+         "firstgid":2,
+         "image":"3.png",
+         "imageheight":16,
+         "imagewidth":16,
+         "margin":0,
+         "name":"3",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":16,
+         "tilewidth":16
+        }, 
+        {
+         "firstgid":3,
+         "image":"4.png",
+         "imageheight":16,
+         "imagewidth":16,
+         "margin":0,
+         "name":"4",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":16,
+         "tilewidth":16
+        }, 
+        {
+         "firstgid":4,
+         "image":"left spike.png",
+         "imageheight":16,
+         "imagewidth":16,
+         "margin":0,
+         "name":"left spike",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":16,
+         "tilewidth":16
+        }, 
+        {
+         "firstgid":5,
+         "image":"right spike.png",
+         "imageheight":16,
+         "imagewidth":16,
+         "margin":0,
+         "name":"right spike",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":16,
+         "tilewidth":16
+        }],
+ "tilewidth":16,
+ "version":1,
+ "width":48
+}

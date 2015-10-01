@@ -1,0 +1,76 @@
+{ "height":48,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJztlksKwCAMRNXe\/87ddFEkhgE\/Scw8mFUHeYs6WEspNXgkni5IZ6aHnvVH849ANv\/25XRvhOZvfSd5f\/1Df1uy+XvdzwjR\/CW4n\/uhvy3Z\/L3up\/YtQiS4n\/uhvy3Z\/L3uZ4Ro\/ijorq3ujcj2\/3uD\/rZo\/q0L0pnpoWf9ufn9KcH9XAv9bbnVf+Uuor2Z\/YwQzR+F+7kW+ttyqz\/381xeLT4Dcw==",
+         "encoding":"base64",
+         "height":48,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":48,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "renderorder":"right-down",
+ "tileheight":16,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"Snow.png",
+         "imageheight":16,
+         "imagewidth":16,
+         "margin":0,
+         "name":"Snow",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":16,
+         "tilewidth":16
+        }, 
+        {
+         "firstgid":2,
+         "image":"3.png",
+         "imageheight":16,
+         "imagewidth":16,
+         "margin":0,
+         "name":"3",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":16,
+         "tilewidth":16
+        }, 
+        {
+         "firstgid":3,
+         "image":"4.png",
+         "imageheight":16,
+         "imagewidth":16,
+         "margin":0,
+         "name":"4",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":16,
+         "tilewidth":16
+        }],
+ "tilewidth":16,
+ "version":1,
+ "width":48
+}
